@@ -7,10 +7,10 @@
 <li><b>📍 Location:  </b> Lima City, PE </li>   
 </ul>
 
-<div align="center">
+<! --<div align="center">
 	<img src="https://komarev.com/ghpvc/?username=diegogarciapablo&color=blue&style=for-the-badge" alt="Profile views"/>
 	<img src="https://img.shields.io/github/followers/diegogarciapablo?style=for-the-badge&logo=github&color=blue" alt="Github followers"/>   
-</div>
+</div>-->
 
 <h3> Social Media </h3>
 <p align="left">
